@@ -26,3 +26,7 @@ Me encanta el aprendizaje continuo, ya sea optimizando el rendimiento de mis apl
 ### Entornos y Sistemas Operativos
 *   **Eclipse IDE**
 *   **Linux / Windows**
+---
+## Mi ROADMAP de aprendizaje
+
+<a href="https://github.com/kingterror/mis-codigos"><img src="https://github.com/kingterror/kingterror/blob/main/roadmap_alex.png" style="height: 60%; width:60%;"/></a>
