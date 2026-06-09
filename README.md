@@ -7,6 +7,7 @@ Soy estudiante de **DAM** y un apasionado del desarrollo de software y la tecnol
 Me encanta el aprendizaje continuo, ya sea optimizando el rendimiento de mis aplicaciones, explorando bases de datos o incluso trasteando con el hardware de mi equipo para sacarle el máximo partido.
 
 *   💻 Actualmente enfocado en dominar el desarrollo backend y la gestión de datos.
+*   🌱 Ampliando y mejorando mis conocimientos cada día de forma autodidacta con los cursos y retos de la comunidad de **Píldoras Informáticas** y **MoureDev(Brais Moure)**, 2 referentes de la comunidad hispanohablante. 
 *   🐧 Fiel creyente del desarrollo multiplataforma (creando proyectos que fluyan tanto en **Linux** como en **Windows**).
 *   🎨 En mi tiempo libre, practico deportes de fuerza 💪 y echar partidas en mi querida xbox :video_game:
 <!-- 
